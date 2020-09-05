@@ -34,6 +34,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
+![Electron](https://img.shields.io/badge/-angular-darkred?style=flat-square&logo=angular)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
