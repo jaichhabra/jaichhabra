@@ -51,6 +51,6 @@
 <br />
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Abhinav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhinavRobinson&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
-  <img align="left" alt="aaryank's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRobinson&hide=TeX&theme=tokyonight&layout=compact" />
+  <img align="left" alt="Abhinav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhinavRobinson&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="left" alt="aaryank's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRobinson&hide=TeX&layout=compact" />
 </details>
