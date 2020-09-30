@@ -23,6 +23,8 @@
 
 <br />
 
+![trophy](https://github-profile-trophy.vercel.app/?username=AbhinavRobinson)
+
 ## 🔥 Technologies
 
 <br />
@@ -49,9 +51,15 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+## 😉 Get to know me!
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=abhinavrob&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=abhinavrob&redirect=true)
+
 <br />
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Abhinav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhinavRobinson&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" />
-  <img align="left" alt="aaryank's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRobinson&hide=TeX&layout=compact&theme=dracula" />
+  <img align="left" alt="Abhinav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhinavRobinson&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="left" alt="aaryank's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRobinson&hide=TeX&layout=compact" />
 </details>
+
+
