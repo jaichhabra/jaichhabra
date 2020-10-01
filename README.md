@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/AbhinavRobinson/abhinavrobinson/master/assets/planets.jpg" alt="stacks"/>
 </h3>
 
-### Hi there, It's Abhinav 👋
+### Hi there, It's Jai 👋
 
 - 🔭 I’m currently working on contributing to Open Source Projects 🙂
 - 🌱 I’m currently learning about design and machine learning
