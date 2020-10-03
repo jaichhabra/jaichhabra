@@ -1,8 +1,4 @@
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/AbhinavRobinson/abhinavrobinson/master/assets/planets.jpg" alt="stacks"/>
-</h3>
-
-### Hi there, It's Abhinav 👋
+### Hi there, It's Jai Chhabra 👋
 
 - 🔭 I’m currently working on contributing to Open Source Projects 🙂
 - 🌱 I’m currently learning about design and machine learning
@@ -13,17 +9,17 @@
 
 <br />
 
-[![Website Badge](https://img.shields.io/badge/-Design.Portfolio-teal?style=flat-square&url=https%3A%2F%2Fabhinavrobinson.github.io)](https://abhinavrobinson.github.io)
-[![Linkedin Badge](https://img.shields.io/badge/-abhinavrobinson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-robinson-576429171i/)](https://www.linkedin.com/in/abhinav-robinson-576429171/)
-[![Instagram Badge](https://img.shields.io/badge/-abhinav.robinson-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/abhinav.robinson/)](https://instagram.com/abhinav.robinson)
-[![Dribbble Badge](https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/AbhinavR)](https://dribbble.com/AbhinavR)
-[![Gmail Badge](https://img.shields.io/badge/-abhinavrobinson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinavrobinson@gmail.com)](mailto:abhinavrobinson@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/AbhinavRobinson-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AbhinavRobinson)
+[![Website Badge](https://img.shields.io/badge/-Design.Portfolio-teal?style=flat-square&url=https%3A%2F%2Fjaichhabra.github.io)](https://jaichhabra.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/-jaichhabra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaichhabra-576429171i/)](https://www.linkedin.com/in/jaichhabra-576429171/)
+[![Instagram Badge](https://img.shields.io/badge/-jaichhabra-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jaichhabra/)](https://instagram.com/jaichhabra)
+[![Dribbble Badge](https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/jaichhabra)](https://dribbble.com/jaichhabra)
+[![Gmail Badge](https://img.shields.io/badge/-jaichhabra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaichhabra@gmail.com)](mailto:jaichhabra@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/jaichhabra-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jaichhabra)
 [![whatsapp](https://img.shields.io/badge/-Whatsapp-075E54?style=flat-square&url=https%3A%2F%2Fwhatsapp.com&logo=Whatsapp&logoColor=white)](https://wa.me/7895747201)
 
 <br />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AbhinavRobinson)
+![trophy](https://github-profile-trophy.vercel.app/?username=jaichhabra)
 
 ## 🔥 Technologies
 
@@ -51,15 +47,11 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 😉 Get to know me!
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=abhinavrob&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=abhinavrob&redirect=true)
-
 <br />
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Abhinav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhinavRobinson&count_private=true&show_icons=true&include_all_commits=true" />
-  <img align="left" alt="aaryank's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRobinson&hide=TeX&layout=compact" />
+  <img align="left" alt="Abhinav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaichhabra&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="left" alt="aaryank's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaichhabra&hide=TeX&layout=compact" />
 </details>
 
 
