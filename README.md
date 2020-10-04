@@ -27,12 +27,9 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=Deno)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
-![Electron](https://img.shields.io/badge/-angular-darkred?style=flat-square&logo=angular)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -50,8 +47,8 @@
 <br />
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Abhinav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaichhabra&count_private=true&show_icons=true&include_all_commits=true" />
-  <img align="left" alt="aaryank's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaichhabra&hide=TeX&layout=compact" />
+  <img align="left" alt="Jai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaichhabra&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="left" alt="Jai's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaichhabra&hide=TeX&layout=compact" />
 </details>
 
 
