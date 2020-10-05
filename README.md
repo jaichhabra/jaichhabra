@@ -11,7 +11,7 @@
 
 [![Website Badge](https://img.shields.io/badge/-Design.Portfolio-teal?style=flat-square&url=https%3A%2F%2Fjaichhabra.github.io)](https://jaichhabra.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-jaichhabra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaichhabra-576429171i/)](https://www.linkedin.com/in/jaichhabra)
-[![Instagram Badge](https://img.shields.io/badge/-jaichhabra-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jaichhabra/)](https://instagram.com/jai.jc)
+[![Instagram Badge](https://img.shields.io/badge/-jai.jc-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jai.jc/)](https://instagram.com/jai.jc)
 [![Dribbble Badge](https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/jaichhabra)](https://dribbble.com/jai-jc)
 [![Gmail Badge](https://img.shields.io/badge/-jaichhabra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaichhabra@gmail.com)](mailto:jaichhabra@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/jai.jc-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jaichhabra)
