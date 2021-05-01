@@ -49,8 +49,8 @@
 <br />
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Jai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaichhabra&count_private=true&show_icons=true&include_all_commits=true" />
-  <img align="left" alt="Jai's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaichhabra&hide=TeX&layout=compact" />
+  <img align="left" alt="My's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaichhabra&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="left" alt="MY's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaichhabra&hide=TeX&layout=compact" />
 </details>
 
 
