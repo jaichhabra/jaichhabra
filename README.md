@@ -43,8 +43,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Azure Cloud](https://img.shields.io/badge/MicrosoftAzureCloud-black?style=flat-square&logo=azure-cloud)
-![AWS Cloud](https://img.shields.io/badge/AmazonAwsCloud-black?style=flat-square&logo=aws-cloud)
+![Azure Cloud](https://img.shields.io/badge/MicrosoftAzureCloud-darkblue?style=flat-square&logo=azure-cloud)
+![AWS Cloud](https://img.shields.io/badge/AmazonAwsCloud-blue?style=flat-square&logo=aws-cloud)
 
 <br />
 <details>
