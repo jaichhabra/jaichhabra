@@ -1,7 +1,7 @@
 ### Hi there, It's Jai Chhabra 👋
 
-- 🔭 I’m currently working on contributing to Open Source Projects 🙂
-- 🌱 I’m currently learning about design and machine learning
+- 🔭 I’m currently working at Chingari and Gari Network  🙂
+- 🌱 I’m currently working on oroduct design and strategy 
 - 👯 I’m looking to collaborate on projects with you! 😉
 - 🤔 I’m looking for help with growing as a programmer and a person
 - ⚡ fun fact: I love to Design as much as I code! ... and game too 😋
