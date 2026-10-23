@@ -1,21 +1,23 @@
-<h1 align="center">Hi, I'm Jai Chhabra 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2dd4bf&height=200&section=header&text=Jai%20Chhabra&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Designer%20%E2%80%A2%20Builder%20%E2%80%A2%20Product%20person&descAlignY=58&descSize=18" alt="Jai Chhabra"/>
 
 <p align="center">
-  Product-minded builder — I design as much as I code.<br/>
-  I make calm, beautiful software — from Android TV launchers to local-first tools.
+  <a href="https://github.com/jaichhabra">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Jai+%F0%9F%91%8B;Product-minded+builder;I+design+as+much+as+I+code;I+make+calm%2C+beautiful+software" alt="Typing intro"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://jaichhabra.github.io"><img src="https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/jaichhabra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://dribbble.com/jai-jc"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
-  <a href="https://twitter.com/jaichhabrajc"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:jaichhabra@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://jaichhabra.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=2dd4bf" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/jaichhabra"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2dd4bf" alt="LinkedIn"/></a>
+  <a href="https://dribbble.com/jai-jc"><img src="https://img.shields.io/badge/Dribbble-0d1117?style=for-the-badge&logo=dribbble&logoColor=2dd4bf" alt="Dribbble"/></a>
+  <a href="https://twitter.com/jaichhabrajc"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=2dd4bf" alt="X"/></a>
+  <a href="mailto:jaichhabra@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=2dd4bf" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=jaichhabra&style=for-the-badge&color=0d9488&label=Profile+views" alt="Profile views"/>
 </p>
 
----
+<br/>
 
-### 🚀 Featured project
+## 🔭 Currently working on
 
 <table>
   <tr>
@@ -25,26 +27,49 @@
       </a>
     </td>
     <td>
-      <h3><a href="https://github.com/jaichhabra/sundartv">SundarTV</a></h3>
+      <h3><a href="https://github.com/jaichhabra/sundartv">📺 SundarTV</a></h3>
       <p>A beautiful, ad-free home screen for Android TV and Google TV. The background follows the real sky outside — sun, clouds, rain on frosted glass, snow and storms — with your apps on a glass shelf and a quote screensaver.</p>
-      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20TV-3DDC84?style=flat-square&logo=android&logoColor=white"/></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=2dd4bf"/>
+        <img src="https://img.shields.io/badge/Android%20TV-0d1117?style=flat-square&logo=android&logoColor=2dd4bf"/>
+        <img src="https://img.shields.io/github/last-commit/jaichhabra/sundartv?style=flat-square&color=0d9488&label=updated"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🥷 + a few more in stealth mode</h3>
+      <p><i>Quietly building. Details soon.</i></p>
+      <img src="https://img.shields.io/badge/status-building%20in%20stealth-0d1117?style=flat-square&labelColor=0d1117&color=0d9488"/>
     </td>
   </tr>
 </table>
 
-### 🛠️ Toolkit
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,ts,js,python,cpp,react,nodejs,androidstudio,figma,postgres,mongodb,docker,gcp,aws,git&perline=8" alt="Toolkit"/>
+## 🛠️ Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,ts,js,python,cpp,react,nodejs,androidstudio,figma,postgres,mongodb,docker,gcp,aws,git&perline=8&theme=dark" alt="Toolkit"/>
 </p>
 
-### 📊 GitHub activity
+<br/>
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaichhabra&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaichhabra&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+## 📊 GitHub activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaichhabra&show_icons=true&count_private=true&hide_border=false&border_radius=12&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&border_color=1f2937" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaichhabra&layout=compact&border_radius=12&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&border_color=1f2937" alt="Top languages"/>
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jaichhabra&background=0d1117&border=1f2937&stroke=1f2937&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border_radius=12" alt="Contribution streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaichhabra&bg_color=0d1117&color=c9d1d9&line=2dd4bf&point=ffffff&area=true&area_color=2dd4bf&title_color=2dd4bf&hide_border=false&radius=12" alt="Contribution graph"/>
+</p>
 
 <p align="center"><i>Open to collaborating on thoughtful products — say hi.</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:203a43,100:0f2027&height=120&section=footer" alt=""/>
