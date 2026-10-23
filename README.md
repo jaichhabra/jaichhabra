@@ -66,9 +66,11 @@
   <img src="https://streak-stats.demolab.com?user=jaichhabra&background=0d1117&border=1f2937&stroke=1f2937&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border_radius=12" alt="Contribution streak"/>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaichhabra&bg_color=0d1117&color=c9d1d9&line=2dd4bf&point=ffffff&area=true&area_color=2dd4bf&title_color=2dd4bf&hide_border=false&radius=12" alt="Contribution graph"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaichhabra/jaichhabra/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaichhabra/jaichhabra/output/snake-light.svg"/>
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/jaichhabra/jaichhabra/output/snake-dark.svg"/>
+</picture>
 
 <p align="center"><i>Open to collaborating on thoughtful products — say hi.</i></p>
 
