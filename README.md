@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🔭 Currently working on
+## ✨ Fun projects
 
 <table>
   <tr>
@@ -33,6 +33,23 @@
         <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=2dd4bf"/>
         <img src="https://img.shields.io/badge/Android%20TV-0d1117?style=flat-square&logo=android&logoColor=2dd4bf"/>
         <img src="https://img.shields.io/github/last-commit/jaichhabra/sundartv?style=flat-square&color=0d9488&label=updated"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%">
+      <a href="https://github.com/jaichhabra/DeskTV">
+        <img src="https://raw.githubusercontent.com/jaichhabra/DeskTV/main/docs/screenshots/home-dusk.png" alt="DeskTV home screen at dusk"/>
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/jaichhabra/DeskTV">🖥️ DeskTV</a></h3>
+      <p>SundarTV's look and feel on a Windows PC, as if an Apple TV were plugged into your monitor. A live weather sky, a big clock, a glass shelf that opens your real apps, a drawer with your library and widgets, and a quote screensaver — all driven by a remote, keyboard or controller.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=2dd4bf"/>
+        <img src="https://img.shields.io/badge/Electron-0d1117?style=flat-square&logo=electron&logoColor=2dd4bf"/>
+        <img src="https://img.shields.io/badge/Windows-0d1117?style=flat-square&logo=windows&logoColor=2dd4bf"/>
+        <img src="https://img.shields.io/github/last-commit/jaichhabra/DeskTV?style=flat-square&color=0d9488&label=updated"/>
       </p>
     </td>
   </tr>
