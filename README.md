@@ -54,6 +54,23 @@
     </td>
   </tr>
   <tr>
+    <td width="55%" align="center">
+      <a href="https://github.com/jaichhabra/air-quality-widget">
+        <img width="160" src="https://raw.githubusercontent.com/jaichhabra/air-quality-widget/main/icon.png" alt="Air Quality widget icon"/>
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/jaichhabra/air-quality-widget">🍃 Air Quality Widget</a></h3>
+      <p>A frosted-glass desktop widget that shows the air inside, live from your air purifier, next to the air outside, and lets you control the purifier. Works with Xiaomi and Qubo, with untested support for Philips and Dyson. There's a native Mac version for Qubo too.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=2dd4bf"/>
+        <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=2dd4bf"/>
+        <img src="https://img.shields.io/badge/Windows%20%2B%20Mac-0d1117?style=flat-square&logoColor=2dd4bf"/>
+        <img src="https://img.shields.io/github/last-commit/jaichhabra/air-quality-widget?style=flat-square&color=0d9488&label=updated"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td colspan="2" align="center">
       <h3>🥷 + a few more in stealth mode</h3>
       <p><i>Quietly building. Details soon.</i></p>
